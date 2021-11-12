@@ -1,0 +1,747 @@
+@media screen and (max-width: 1920px) {
+
+
+
+    .lavander {
+        background-image: url("../images/Lavender.png");
+        position: absolute;
+        left: -190px;
+        bottom: -210px;
+        height: 324px;
+        background-repeat: no-repeat;
+        width: 404px;
+    }
+
+    .petal1 {
+        background-image: url("../images/petal1.png");
+        position: absolute;
+        top: -130px;
+        width: 50px;
+        height: 67px;
+        left: 80px;
+        z-index: -1;
+    }
+
+    .petal2 {
+        background-image: url("../images/petal2.png");
+        position: absolute;
+        /*left: -350px;*/
+        top: 84px;
+        width: 60px;
+        height: 77px;
+        z-index: -100;
+    }
+
+    .petal3 {
+        background-image: url("../images/petal3.png");
+        position: absolute;
+        right: 0px;
+        top: 200px;
+        width: 111px;
+        height: 165px;
+        z-index: -100;
+    }
+
+    .petal4 {
+        background-image: url("../images/petal4.png");
+        position: absolute;
+        right: 30px;
+        width: 299px;
+        height: 294px;
+        z-index: -100;
+        top: -60px;
+    }
+    .petal5{
+        background-image: url("../images/petal5.png");
+        position: absolute;
+        width: 67px;
+        top: 160px;
+        right: 250px;
+        height: 78px;
+        z-index: -100;
+    }
+    .petal6{
+        background-image: url("../images/petal6.png");
+        position: absolute;
+        width: 157px;
+        top: 216px;
+        left: 0;
+        height: 221px;
+        z-index: -100;
+    }
+    .petal8{
+        background-image: url("../images/petal8.png");
+        position: absolute;
+        width: 82px;
+        bottom: 60px;
+        left: 220px;
+        height: 91px;
+        z-index: -100;
+    }
+    .petal9{
+        background-image: url("../images/petal9.png");
+        position: absolute;
+        width: 61px;
+        top: 80px;
+        left: 60px;
+        height: 57px;
+        z-index: -100;
+    }
+    .petal10{
+        background-image: url("../images/petal10.png");
+        position: absolute;
+        width: 71px;
+        bottom: 80px;
+        left: 0px;
+        height: 91px;
+        z-index: -100;
+    }
+    .petal11{
+        background-image: url("../images/petal11.png");
+        position: absolute;
+        width: 75px;
+        top: -130px;
+        right: 619px;
+        height: 73px;
+        z-index: -100;
+    }
+    .petal12{
+        background-image: url("../images/petal12.png");
+        position: absolute;
+        width: 65px;
+        top: -144px;
+        right: 660px;
+        height: 71px;
+        z-index: -100;
+    }
+    .petal13{
+        background-image: url("../images/petal13.png");
+        position: absolute;
+        width: 74px;
+        top: 20px;
+        right: 365px;
+        height: 82px;
+        z-index: -100;
+    }
+    .petal14{
+        background-image: url("../images/petal14.png");
+        position: absolute;
+        width: 93px;
+        height: 108px;
+        top: 280px;
+        right: 220px;
+        z-index: -100;
+    }
+    .petal15{
+        background-image: url("../images/petal11.png");
+        position: absolute;
+        width: 75px;
+        height: 73px;
+        z-index: -100;
+        right: 330px;
+        bottom: -60px;
+    }
+    .petal16{
+        background-image: url("../images/petal16.png");
+        position: absolute;
+        width: 132px;
+        height: 146px;
+        z-index: -100;
+        right: 158px;
+        bottom: -170px;
+    }
+    .petal17{
+        background-image: url("../images/petal17.png");
+        position: absolute;
+        width: 170px;
+        height: 424px;
+        z-index: -100;
+        right: 0px;
+        bottom: -351px;
+    }
+    .petal18{
+        background-image: url("../images/petal18.png");
+        position: absolute;
+        width: 51px;
+        height: 55px;
+        z-index: -100;
+        left: 210px;
+        bottom: -115px;
+    }
+    .petal19{
+        background-image: url("../images/petal19.png");
+        position: absolute;
+        width: 170px;
+        height: 424px;
+        z-index: -100;
+        right: 550px;
+        bottom: -317px;
+    }
+    .petal20{
+        background-image: url("../images/petal20.png");
+        position: absolute;
+        width: 68px;
+        height: 71px;
+        right: 419px;
+        top: 378px;
+    }
+    .petal24{
+        background-image: url("../images/petal30.png");
+        position: absolute;
+        width: 76px;
+        height: 68px;
+        left: 132px;
+        top: 211px;
+
+    }
+    .petal25{
+        background-image: url("../images/petal14.png");
+        position: absolute;
+        width: 95px;
+        height: 105px;
+        left: 10px;
+        bottom: 130px;
+
+    }
+    .petal21{
+        background-image: url("../images/petal21.png");
+        position: absolute;
+        width: 121px;
+        height: 103px;
+        right: 331px;
+        top: -96px;
+        z-index: -100;
+    }
+
+    .petal22{
+        background-image: url("../images/petal22.png");
+        position: absolute;
+        width: 86px;
+        height: 80px;
+        right: 215px;
+        top: 179px;
+        z-index: -100;
+    }
+    .petal23{
+        background-image: url("../images/petal23.png");
+        position: absolute;
+        width: 71px;
+        height: 82px;
+        right: 245px;
+        top: 339px;
+        z-index: -100;
+    }
+
+    #advantages, #services, #gallery, #contacts {
+        position: relative;
+    }
+
+    .lavand {
+        background-image: url("../images/lavand.png");
+        position: absolute;
+        right: -300px;
+        top: 378px;
+        height: 468px;
+        width: 420px;
+        background-repeat: no-repeat;
+    }
+}
+
+@media screen and (min-width: 1920px) {
+    #gallery-photos .slick-next {
+        right: 42%;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .slick-dots {
+        width: 90px;
+    }
+
+    #advantages .slick-initialized .slick-slide {
+        width: 400px;
+        margin-right: 0px;
+    }
+
+    .slick-next {
+        right: 42%;
+    }
+
+}
+
+@media screen and (max-width: 1180px) {
+    .questions-block #accordion {
+        width: 550px;
+    }
+
+    iframe {
+        width: 600px;
+    }
+}
+
+@media screen and (max-width: 1199px) {
+    #header, .main-container, #advantages-container, #services-container, #present-container, #masters-container, #gallery-container, #questions-container, #contacts-container, #footer-container {
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+        box-sizing: border-box;
+    }
+
+    #present-img {
+        max-width: 819px;
+    }
+
+    #present-img img {
+        max-width: 100%;
+        max-height: 100%;
+    }
+
+    #gallery-photos .slick-next {
+        right: 36%;
+    }
+
+    #accordion {
+        width: 650px;
+    }
+
+    #services-items {
+        flex-wrap: wrap;
+        margin: 0 94px;
+        justify-content: space-evenly;
+    }
+
+    .services-item {
+        margin-bottom: 20px;
+    }
+
+    #present-container {
+        flex-wrap: wrap-reverse;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .main-button button {
+        text-align: center;
+        margin: 0 auto;
+        margin-bottom: 100px;
+
+    }
+
+    #present .titles {
+        padding-top: 54px;
+    }
+
+    #present-info {
+        margin-bottom: -100px;
+    }
+
+    .test-popup-link img {
+        max-width: 250px;
+    }
+
+    #gallery-photos .slick-prev, #gallery-photos .slick-next {
+        top: 230px;
+        right: 32%;
+    }
+
+}
+
+@media screen and (min-width: 1199px) {
+    #present-img {
+        max-width: 819px;
+    }
+
+    #present-img img {
+        max-width: 100%;
+        max-height: 100%;
+    }
+
+    #accordion {
+        width: 650px;
+    }
+
+}
+
+@media screen and (max-width: 1023px) {
+    /*.slick-next{*/
+    /*    right: 44%;*/
+    /*}*/
+    #gallery-photos .slick-next {
+        right: 28%;
+    }
+
+    .questions-block form {
+        width: 366px;
+    }
+
+    #call-decs {
+        width: 291px;
+    }
+
+    #accordion {
+        width: 550px;
+    }
+
+    .contacts-maps {
+        width: 600px;
+    }
+
+    .slick-next {
+        right: 41%;
+    }
+
+    .my-dots {
+        left: 34%;
+    }
+
+    #gallery-photos .slick-next {
+
+        right: 32%;
+    }
+
+    #gallery-photos .slick-prev {
+        left: 30%;
+    }
+}
+
+@media (min-width: 1203px) and (max-width: 1300px) {
+    #gallery-photos .slick-next {
+        right: 32%;
+    }
+}
+
+@media (min-width: 1025px) and (max-width: 1077px) {
+    #gallery-photos .slick-next {
+        right: 30%;
+    }
+}
+
+@media (min-width: 1081px) and (max-width: 1160px) {
+    #gallery-photos .slick-next {
+        right: 30%;
+    }
+}
+
+@media (min-width: 871px) and (max-width: 960px) {
+    #gallery-photos .slick-next {
+        right: 30%;
+    }
+}
+
+@media screen and (max-width: 974px) {
+    .questions-block {
+        justify-content: center;
+        flex-wrap: wrap;
+        margin-left: 30px;
+    }
+
+    #gallery-photos .slick-next {
+        right: 28%;
+    }
+
+    #questions {
+        background-size: cover;
+        padding-bottom: 100px;
+    }
+
+    #questions-container .titles {
+        text-align: center;
+    }
+
+    .questions-block form {
+        margin-top: 30px;
+    }
+
+    #advantages-container .titles {
+        text-align: center;
+    }
+
+    #contacts {
+        margin-top: 0;
+    }
+
+    #contacts-container {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    #contacts-container .titles {
+        text-align: center;
+    }
+
+    .contacts-data {
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .times, .phone {
+        margin-left: 30px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .slick-dots {
+        width: 190px;
+        left: 35.5%;
+    }
+
+    .slick-prev {
+        left: 32%;
+    }
+
+    .slick-next {
+        right: 36%;
+    }
+
+    #services-container .titles {
+        text-align: center;
+    }
+
+    #services-desc {
+        text-align: center;
+        width: auto;
+    }
+
+    .footer-times {
+        display: none;
+    }
+
+    #gallery-container {
+        text-align: center;
+    }
+
+    #gallery-desc {
+        max-width: 100%;
+    }
+
+    #masters-container .titles {
+        text-align: center;
+    }
+
+    #masters-desc {
+        text-align: center;
+        max-width: 100%;
+    }
+
+    #header-phone {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 579px) {
+    #burger {
+        display: block;
+    }
+
+    #header {
+        position: relative;
+    }
+
+    #header-menu {
+        top: 141px;
+        position: fixed;
+        z-index: 3;
+        left: 0;
+        width: 100%;
+        text-align: center;
+        padding: 20px 0;
+        display: none;
+        background: rgba(0, 0, 0, 0.8);
+    }
+
+    .header-menu-item {
+        display: block;
+        width: auto;
+        color: #FFFFFF;
+        padding-bottom: 20px;
+    }
+    .ui-accordion .ui-accordion-header{
+        font-size: 15px;
+    }
+    #header-menu a.active {
+        border-bottom: none;
+        color: white;
+    }
+
+    #header-menu a {
+        color: white;
+    }
+    .phone, .times{
+        margin-left: 0px;
+    }
+    .contacts-data{
+        display: block;
+    }
+
+    #header.menu-open {
+        background: rgba(0, 0, 0, 0.8);
+    }
+
+
+    #header-menu {
+        display: none;
+    }
+
+    .contacts-maps {
+        width: 90%;
+    }
+
+    .footer-phone {
+        display: none;
+    }
+
+    .my-dots {
+        left: 24%;
+    }
+
+    #gallery-photos .slick-next {
+        right: 15%;
+    }
+
+    #gallery-photos .slick-prev {
+        left: 18%;
+    }
+
+    .slick-next {
+        right: 23%;
+    }
+    .addresses{
+        padding-bottom: 40px;
+    }
+    #services-container, #masters, #gallery, #questions, #advantages-container{
+        margin-top: 80px;
+    }
+    #questions{
+        padding-bottom: 80px;
+    }
+    #reservation{
+        max-width: 320px;
+    }
+    .reserve-input{
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+    .reserve-input input{
+        width: 259px;
+    }
+    .reserve-input select{
+        width: 259px;
+    }
+    .input-group .form-control{
+        width: 259px;
+    }
+
+}
+
+@media screen and (max-width: 600px) {
+    .contacts-maps {
+        width: 90%;
+    }
+}
+@media screen and (max-width: 499px){
+    #main-title{
+        font-size: 28px;
+        max-width: 400px;
+    }
+    .slick-next{
+        right: 20%;
+    }
+    #gallery-photos .slick-next{
+        right: 11%;
+    }
+
+}
+@media screen and (max-width: 479px){
+
+    #main-desc{
+        max-width: 300px;
+        font-size: 16px;
+    }
+    #main-title{
+        font-size: 23px;
+        max-width: 300px;
+    }
+    .advantages-item-images{
+        margin-right: -15px;
+    }
+    .advantages-item{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .slick-dots{
+        left: 23.5%;
+    }
+    .slick-next{
+        right: 18%;
+    }
+    .slick-prev{
+        left: 18%;
+    }
+    .my-dots{
+        left: 12%;
+    }
+    .ui-icon{
+        right: 17px;
+    }
+    #gallery-photos .slick-next{
+        right: 6%;
+    }
+    #gallery-photos .slick-prev{
+        left: 6%;
+    }
+    .questions-block{
+        margin-left: 0;
+    }
+    .reservation-close{
+        background-color: inherit;
+        right: 0px;
+        top: 1px;
+    }
+    #footer-container .header-logo{
+        display: none;
+    }
+    .footer-icons{
+        padding: 20px 20px;
+    }
+    #present-desc{
+        width: auto;
+    }
+    #present-img{
+        display: none;
+    }
+    #call-decs{
+        font-size: 15px;
+        width: 250px;
+    }
+    .my-dots{
+        bottom: -52px;
+    }
+    .slick-dots li.slick-active{
+        font-size: 18px;
+    }
+    .slick-dots li{
+        font-size: 15px;
+    }
+    .my-dots li{
+        width: 13px;
+        height: 13px;
+    }
+}
+@media screen and (max-width: 1600px){
+    .petal24{
+        z-index: -1;
+    }
+}
+@media screen and (max-width: 1823px){
+    .petal20{
+        z-index: -1;
+    }
+}
+
+@media screen and (max-width: 1400px){
+    .petal25{
+        z-index: -1;
+    }
+}
